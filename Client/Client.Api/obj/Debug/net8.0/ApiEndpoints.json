@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Client.Api.Controllers.ClientsController",
+    "Method": "GetByIdentificacion",
+    "RelativePath": "api/Clients/{identificacion}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "identificacion",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

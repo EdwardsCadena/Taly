@@ -1,0 +1,11 @@
+C:\Users\elect\source\repos\Client\Clientes.DTOs\bin\Debug\net8.0\Clientes.DTOs.deps.json
+C:\Users\elect\source\repos\Client\Clientes.DTOs\bin\Debug\net8.0\Clientes.DTOs.dll
+C:\Users\elect\source\repos\Client\Clientes.DTOs\bin\Debug\net8.0\Clientes.DTOs.pdb
+C:\Users\elect\source\repos\Client\Clientes.DTOs\obj\Debug\net8.0\Clientes.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\source\repos\Client\Clientes.DTOs\obj\Debug\net8.0\Clientes.DTOs.AssemblyInfoInputs.cache
+C:\Users\elect\source\repos\Client\Clientes.DTOs\obj\Debug\net8.0\Clientes.DTOs.AssemblyInfo.cs
+C:\Users\elect\source\repos\Client\Clientes.DTOs\obj\Debug\net8.0\Clientes.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\elect\source\repos\Client\Clientes.DTOs\obj\Debug\net8.0\Clientes.DTOs.dll
+C:\Users\elect\source\repos\Client\Clientes.DTOs\obj\Debug\net8.0\refint\Clientes.DTOs.dll
+C:\Users\elect\source\repos\Client\Clientes.DTOs\obj\Debug\net8.0\Clientes.DTOs.pdb
+C:\Users\elect\source\repos\Client\Clientes.DTOs\obj\Debug\net8.0\ref\Clientes.DTOs.dll

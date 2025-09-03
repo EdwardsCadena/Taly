@@ -1,0 +1,11 @@
+C:\Users\elect\source\repos\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.deps.json
+C:\Users\elect\source\repos\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.dll
+C:\Users\elect\source\repos\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.pdb
+C:\Users\elect\source\repos\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\source\repos\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.AssemblyInfoInputs.cache
+C:\Users\elect\source\repos\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.AssemblyInfo.cs
+C:\Users\elect\source\repos\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elect\source\repos\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.dll
+C:\Users\elect\source\repos\Client\Client.Domain\obj\Debug\net8.0\refint\Client.Domain.dll
+C:\Users\elect\source\repos\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.pdb
+C:\Users\elect\source\repos\Client\Client.Domain\obj\Debug\net8.0\ref\Client.Domain.dll

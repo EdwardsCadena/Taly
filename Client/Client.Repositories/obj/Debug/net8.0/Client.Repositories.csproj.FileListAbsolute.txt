@@ -1,0 +1,17 @@
+C:\Users\elect\source\repos\Client\Client.Repositories\bin\Debug\net8.0\Client.Repositories.deps.json
+C:\Users\elect\source\repos\Client\Client.Repositories\bin\Debug\net8.0\Client.Repositories.runtimeconfig.json
+C:\Users\elect\source\repos\Client\Client.Repositories\bin\Debug\net8.0\Client.Repositories.dll
+C:\Users\elect\source\repos\Client\Client.Repositories\bin\Debug\net8.0\Client.Repositories.pdb
+C:\Users\elect\source\repos\Client\Client.Repositories\bin\Debug\net8.0\Client.Domain.dll
+C:\Users\elect\source\repos\Client\Client.Repositories\bin\Debug\net8.0\Client.Domain.pdb
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.Repositories.csproj.AssemblyReference.cache
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.Repositories.AssemblyInfoInputs.cache
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.Repositories.AssemblyInfo.cs
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.R.7E81201C.Up2Date
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.Repositories.dll
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\refint\Client.Repositories.dll
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.Repositories.pdb
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\Client.Repositories.genruntimeconfig.cache
+C:\Users\elect\source\repos\Client\Client.Repositories\obj\Debug\net8.0\ref\Client.Repositories.dll
